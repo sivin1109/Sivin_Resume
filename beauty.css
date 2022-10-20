@@ -1,0 +1,177 @@
+body
+{
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+div
+{
+  background-color: #EAF6F6;
+  text-align: center;
+  padding: 10px;
+}
+.cloud1
+{
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 25px;
+  left: 750px;
+}
+.txt1
+{
+  margin-top: 100px;
+  color: #66BFBF;
+}
+.txt2
+{
+  color: #66BFBF;
+}
+.cloud2
+{
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 320px;
+}
+.mountain
+{
+  height: 250px;
+  width: 300px;
+}
+span
+{
+  text-decoration: underline;
+}
+
+.profile
+{
+  background-color: white;
+}
+.dp
+{
+  margin-top: 30px;
+  height: 100px;
+  width: 100px;
+}
+.p1
+{
+  color: #40514E;
+  margin: auto 350px auto 350px;
+}
+hr
+{
+  margin-top: 50px;
+  border-collapse: collapse;
+  border-style: dotted none none;
+  border-width: 10px;
+  width: 5%;
+  color: grey;
+}
+
+.skills
+{
+  background-color: white;
+}
+.skill
+{
+  margin-top: 30px;
+  height: 100px;
+  width: 100px;
+}
+.txt3
+{
+  color: #11999E;
+}
+
+.skill1
+{
+  background-color: white;
+  margin: 0 30% 0 20%;
+  text-align: left;
+}
+.trade
+{
+  margin-top: 50px;
+  margin-right: 20px;
+  height: 100px;
+  width: 100px;
+  float: left;
+}
+
+.skill2
+{
+  background-color: white;
+  margin: 0 20% 0 30%;
+  text-align: right;
+}
+.webd
+{
+  margin-top: 50px;
+  margin-left: 20px;
+  height: 100px;
+  width: 100px;
+  float: right;
+}
+
+
+.touch
+{
+  background-color: white;
+  margin: 0 25%;
+}
+
+.button
+{
+  background-color: white;
+}
+.btn {
+  background: #66bfbf;
+  background-image: -webkit-linear-gradient(top, #66bfbf, #629191);
+  background-image: -moz-linear-gradient(top, #66bfbf, #629191);
+  background-image: -ms-linear-gradient(top, #66bfbf, #629191);
+  background-image: -o-linear-gradient(top, #66bfbf, #629191);
+  background-image: linear-gradient(to bottom, #66bfbf, #629191);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.end
+{
+  margin-top: 30px;
+  padding: 35px;
+  background-color: #66BFBF;
+}
+.contact
+{
+  font-weight: bold;
+  font-size: 14px;
+  margin: 0 3% 0 0;
+  text-decoration: none;
+  color: #11999E;
+}
+.copy
+{
+  font-size: 12px;
+  color: #EAF6F6;
+}
+.co_img
+{
+  height: 20px;
+  width: 20px;
+}
